@@ -1,7 +1,7 @@
 # RT_project
-Step 1: generate directory structure
-Step 2: Download TCGA data (manually) and place in the "data/TCGA_data dir"
-Step 3: Download the "fasta.fa" file and place in the "data/fa_input" directory
+# Step 1: generate directory structure
+# Step 2: Download TCGA data (manually) and place in the "data/TCGA_data dir"
+# Step 3: Download the "fasta.fa" file and place in the "data/fa_input" directory
 # Step 4: Generate TCGA matrix with full set of genes (~60,000) --> run the "1_prepare_full_TCGA_matrix.sh" (provide path to the project directory as command line argument) 
 # ....... --> results generated under "analysis/TCGA_matrix_full/"
 # Step 5: Inspect the library file --> run "2_inspect_fa_select_TCGA.py" (provide path to the project directory as command line argument) --> results generated under "analysis/3_input_library_inspect"
