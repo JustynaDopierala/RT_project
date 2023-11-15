@@ -1,0 +1,9 @@
+n of sequences in the library = 77736
+n of duplicate sequences = 0
+n of sequences with length other than 20 = 0
+
+N of genes in library = 19281
+N of NegCtrl guides = 500
+N of NegCtrlIn guides = 80
+N of PosCtrl guides = 40
+genes where guide n other than 4: CT45A2, DEFB107B, USP17L26, SPHAR, USP17L28
